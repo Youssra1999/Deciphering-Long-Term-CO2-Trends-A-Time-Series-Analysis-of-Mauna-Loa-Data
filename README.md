@@ -76,9 +76,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Scripps Institution of Oceanography
-- Ralph Keeling
-- MITx 6.419x Data Analysis: Statistical Modeling and Computation in Applications team
-- CSAIL at MIT
+- [Scripps Institution of Oceanography](https://scripps.ucsd.edu/)
+- [Ralph Keeling](https://en.wikipedia.org/wiki/Ralph_Keeling)
+- [MITx 6.419x Data Analysis: Statistical Modeling and Computation in Applications team](https://www.edx.org/learn/data-analysis/massachusetts-institute-of-technology-data-analysis-statistical-modeling-and-computation-in-applications)
+- [CSAIL at MIT](https://www.csail.mit.edu/)
 
 
