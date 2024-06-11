@@ -4,6 +4,9 @@
 
 In 1958, Charles David Keeling (1928-2005) from the Scripps Institution of Oceanography began recording carbon dioxide (CO2) concentrations in the atmosphere at an observatory located about 3,400 meters altitude on the Mauna Loa Volcano on Hawaii Island. The location was chosen because it is not influenced by changing CO2 levels due to the local vegetation and because prevailing wind patterns on this tropical island tend to bring well-mixed air to the site. While the recordings are made near a volcano (which tends to produce CO2), wind patterns tend to blow the volcanic CO2 away from the recording site. Air samples are taken several times a day, and concentrations have been observed using the same measuring method for over 60 years. In addition, samples are stored in flasks and periodically reanalyzed for calibration purposes. The observational study is now run by Ralph Keeling, Charles's son. The result is a data set with very few interruptions and very few inhomogeneities. It has been called the "most important data set in modern climate research."
 
+
+<img src="_Genomics and High Dimensional Data (3).png" alt="Image" width="500" align="right">
+
 ## Data
 
 The data set for this problem can be found in `co2.csv`. It provides the concentration of CO2 recorded at Mauna Loa for each month starting March 1958. More description is provided in the data set file. We will be considering only the CO2 concentration given in column 5. The goal of the problem is to fit the data and understand its variations. You will encounter missing data points; part of the exercise is to deal with them appropriately.
